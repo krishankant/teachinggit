@@ -1,7 +1,7 @@
 hi i am testing conflict.
 conflict1
-
+create conflict
 conflict3
-change
+change the file for conflict
 conflict2
 
