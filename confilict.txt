@@ -1,4 +1,7 @@
 hi i am testing conflict.
 conflict1
+
 conflict3
 change
+conflict2
+
