@@ -1,0 +1,7 @@
+hi i am testing conflict.
+conflict1
+merging from testing to master
+conflict3
+change
+conflict2
+stash example
