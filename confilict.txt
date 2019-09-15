@@ -4,4 +4,4 @@ merging from testing to master
 conflict3
 change
 conflict2
-
+stash example
