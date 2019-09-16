@@ -1,2 +1,3 @@
 learning how to rebase one commit on another commit
 how to do stash
+changes learning how to rebase one commit on another commit
