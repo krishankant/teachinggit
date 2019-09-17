@@ -1,4 +1,7 @@
 learning how to rebase one commit on another commit
+<<<<<<< Updated upstream
 how to do stash
 changes learning how to rebase one commit on another commit
+=======
+>>>>>>> Stashed changes
 how to do stash data
